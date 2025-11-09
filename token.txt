@@ -1,0 +1,1 @@
+place your bot token here, do not surround it with quotation marks
